@@ -85,7 +85,7 @@ PRODUCT PAGE:
   <head>
     <title>TG</title>
     <link rel="stylesheet" href="./css/layout.css" />
-     <link rel="icon" href="/static/images/tglogo.png" type="image/x-icon" />
+    <link rel="icon" href="/static/images/tglogo.png" type="image/x-icon" />
   </head>
 
   <body>
@@ -93,62 +93,104 @@ PRODUCT PAGE:
       <div class="banner"></div>
       <div class="menu">
         <div class="menuitem"><a href="/home/">Home</a></div>
-        <div class="menuitem"><a href="/products/">Products</a></div>
-        <div class="menuitemselected"><a href="/people/">People</a></div>
+        <div class="menuitemselected"><a href="/products/">Products</a></div>
+        <div class="menuitem"><a href="/people/">People</a></div>
         <div class="menuitem"><a href="/contactus/">Contact Us</a></div>
       </div>
       
       <div class="content">
         <div class="productcontent">
-            <h1>Our Crew Memebers</h1>
-                    <div class="productitems">
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/vivek.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">FOUNDER OF TG</div>
-                            <div class="itemprice">VIVEK</div>
-                        </div>
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/prem.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">CO-FOUNDER OF TG</div>
-                            <div class="itemprice">PREM</div>
-                        </div>
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/15.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">CHIEF OPERATING OFFICER</div>
-                            <div class="itemprice">VISWANATH</div>
-                        </div>
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/16.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">CHIEF MARKETING OFFICER</div>
-                            <div class="itemprice">SYED ISMAIL</div>
-                        </div>
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/17.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">CHIEF TECHNOLOGY OFFICER</div>
-                            <div class="itemprice">NANDA</div>
-                        </div>
-                        <div class="productitem">
-                            <div class="itemimage">
-                                <img src="/static/images/13.jpg" alt="people image">
-                            </div>
-                            <div class="itemname">COMPANY-SPONSOR</div>
-                            <div class="itemprice">MADAN</div>
-                        </div>
-                    </div>
+            <h1 class="hrr">OUR TOP SELLING PRODUCTS</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/images/1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">PS5-OUTCAST2</div>
+                  <div class="itemprice">Price: Rs: 2,500  </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/images/2.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">PS-4 FIGHT FOREVER</div>
+                  <div class="itemprice">Price: Rs.1,199.00</div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/3.jpg"  alt="product image">
                 </div>
-            </div>
-            <div class="footer">
-        Copyright &#169; 2023 TG'S GAME STORE , Designed By VINOD KUMAR.S
+                <div class="itemname">PS4-MIDNIGHTSUNS(LEGENDARY-EDITION)</div>
+                <div class="itemprice">Price:Rs.3100.00  </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/4.jpg"  alt="product image">
+                </div>
+                <div class="itemname">WRECKRECREATION</div>
+                <div class="itemprice">Price: Rs.2,009.00</div>
+              </div><div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/images/5.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">PS-5 VR GOLDEN-EDITION</div>
+                  <div class="itemprice">Price: Rs.30,000 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/6.jpg"  alt="product image">
+                </div>
+                <div class="itemname">ASTRO-A50 GAMING HEADSET</div>
+                <div class="itemprice">Price: Rs.50,000 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/7.jpg"  alt="product image">
+                </div>
+                <div class="itemname">PS-5 DUAL SENESE CONTROLLER</div>
+                <div class="itemprice">Price:Rs.499 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/8.jpg"  alt="product image">
+                </div>
+                <div class="itemname">PS-5 WITH HORIZON BUNDLE(FREE)</div>
+                <div class="itemprice">Price: Rs.55,000 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/9.jpg"  alt="product image">
+                </div>
+                <div class="itemname">THUNDER MASTER USB JOYSTICK</div>
+                <div class="itemprice">26,000 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/10.jpg"  alt="product image">
+                </div>
+                <div class="itemname">NINTENDO-SWITCH</div>
+                <div class="itemprice">Price: Rs.44,500</div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/11.jpg"  alt="product image">
+                </div>
+                <div class="itemname">XBOX-X GTA V GOLDEN EDITION</div>
+                <div class="itemprice">Price: 3,000.00 </div>
+              </div>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/images/12.jpg"  alt="product image">
+                </div>
+                <div class="itemname">NINTENDO-GTA TRIOLOGY EDITION</div>
+                <div class="itemprice">Price: Rs.2,500</div>
+             </div>
+          </div>
+          </div>        
+          
+        
+      <div class="footer">
+        Copyright &#169; 2023 TG'S GAME STORE, Designed By VINOD KUMAR.S
       </div>
     </div>
   </body>
